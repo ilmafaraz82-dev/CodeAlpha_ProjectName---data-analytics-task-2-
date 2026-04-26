@@ -288,11 +288,3 @@ CodeAlpha_ProjectName - data analytics (task 2)
 * Normalize numerical features
 * Handle skewness
 * Remove multicollinearity
-
----
-
-
----
-
-
-👉 *“Make notebook”* or *“Make dashboard”*
